@@ -1,5 +1,4 @@
 # TeamProdigyChatApplicaion
-# Realtime Chat Application
 
 ### [Live Site](https://team-prodigy-chat.netlify.app/)
 
